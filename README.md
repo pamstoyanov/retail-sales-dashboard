@@ -32,6 +32,8 @@ The model follows a star schema structure:
 
 Full SQL script available in:
 
+Full SQL script available in:
+
 [01_retail_sales_dw.sql](sql/01_retail_sales_dw.sql)
 
 ---
