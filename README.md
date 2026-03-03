@@ -30,7 +30,9 @@ The model follows a star schema structure:
 - Products
 - Orders
 
-![Data Model](images/data-model.png)
+Full SQL script available in:
+
+[01_retail_sales_dw.sql](sql/01_retail_sales_dw.sql)
 
 ---
 
